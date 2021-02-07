@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### [Visit Here](https://dhavalkotak.github.io/type-test/)
+
 ## Available Scripts
 
 In the project directory, you can run:
