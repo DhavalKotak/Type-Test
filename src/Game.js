@@ -66,7 +66,7 @@ class Game extends React.Component{
                         <div>
                             <span>Points: &emsp;{this.state.points}</span>&emsp;&emsp;&emsp;&emsp;<span>Time: &emsp;{this.state.seconds}</span><br/><br/>
                             <h1>{this.state.currentWord}</h1><br/>
-                            <input id="answer" ref={this.answer} type="text" onKeyPress={this.checkWord}/>
+                            <input id="answer" ref={this.answer} type="text" onKeyPress={this.checkWord} autofocus="true"/>
                         </div>
                         :
                     <div>
